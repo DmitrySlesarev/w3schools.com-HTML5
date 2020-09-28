@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title> The new page for practice. </title>
+	<link rel="stylesheet" href="style.css"/>
+	<meta charset="UTF-8"/>
+</head>
+	<!--comment -->
+<body style="background-color: rgb(255, 96, 71);">
+	<h1> Let's start with repetition. </h1>
+	<q> It's the simplest quotation, with quotation marks. </q><br/>
+	<blockquote> This sentence will have some indent. </blockquote><br/>
+	<p> If you decide to add some text, do it in 'p' i.e. 'paragraph' section. For example, <abbr title="Cascading Style Sheets"> CSS </abbr> means 'Cascading Style Sheets'.</p>
+	<address> My address was:<br/>Belarus, Borisov<br/>Vatutina 40, 56 <br/></address>
+	<p> If you want to name anything, you can also use 'cite' like this. <cite> Avengers. Endgame </cite>. Does it work? </p>
+	<h1> Let's proceed with color. </h1>
+	<p> There are at least 3 forms of color in HTML 5. RGB, SRGB, HEX. The first one looks like this: </p>
+	<h5 style="color:RGB(255, 255, 255);"> Some text. </h5>
+	<h5 style="color:mediumseagreen;"> Another line of tomato's color.</h5>
+	<h5 style="color:#ff2810;"> Some text colored in HEX format. </h5>
+	<h3 style="border:2px solid blue;"> Don't forget about border! </h3>
+
+	
+	<h1> Let's study the colors of HTML5 </h1>
+	<p> First color is - tomato.</p>
+	<p> The second one is orange. </p>
+	<p> Also, dodgerblue is known here. </p>
+	<p> Some colors are rather complicated like mediumseagreen.</p>
+	<p> Grey may be gray or slateblue. </p>
+    <p> Violet, lightgrey and many others. </p>
+    <!--
+    	RGB(255, 96, 71)
+    HEX	#ff6423
+
+
+	-->
+
+	<pre> The text should look pre-formatted. </pre>
+	<q> This kind of quotes must be marked with quote signs. </q>
+	<blockquote> The text should be emphasized with indent.</blockquote>
+	<p> Here is the <abbr title="Very Important Person"> VIP.</abbr></p>
+	<address> The browser marks the text in italic.</address>
+	<cite> Name of artist.</cite> <br>
+	<bdo dir=rtl> Weird text, weird text again and at last, the weird text </bdo>
+
+	<br/>
+	<a href="https://www.w3schools.com" target="_blank"> Visit w3schools! </a><br/>
+	<a href="https://www.w3schools.com" target="_self">
+	If you tap the link, it will opened on its spot.</a>
+    <img src="smiley.gif" alt="HTML tutorial" style="height:45px;width:45px;"/>
+    
+    
+    <h1> Let's start with repetition. </h1>
+	<q> It's the simplest quotation, with quotation marks. </q><br/>
+	<blockquote> This sentence will have some indent. </blockquote><br/>
+	<p> If you decide to add some text, do it in 'p' i.e. 'paragraph' section. For example, <abbr title="Cascading Style Sheets"> CSS </abbr> means 'Cascading Style Sheets'.</p>
+	<address> My address was:<br/>Belarus, Borisov<br/>Vatutina 40, 56 <br/></address>
+	<p> If you want to name anything, you can also use 'cite' like this. <cite> Avengers. Endgame </cite>. Does it work? </p>
+	<h1> Let's proceed with color. </h1>
+	<p> There are at least 3 forms of color in HTML 5. RGB, SRGB, HEX. The first one looks like this: </p>
+	<h5 style="color:RGB(255, 255, 255);"> Some text. </h5>
+	<h5 style="color:lightgrey;"> Another line of tomato's color.</h5>
+    <h5 style="color:#ff2810;"> Some text colored in HEX format. </h5>
+    <h3 style="border:2px solid green;"> Here we go with green border. </h3>
+    <h1 style="background-color:rgb(255, 20, 11);">Another head hangs slowly.</h1>
+	<h1 style="background-color:#030303;color:white;">White text.</h1>
+	<h1 style="background-color:hsl(4, 50%, 20%);">Which color is it of?</h1>
+
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>
+</body>
