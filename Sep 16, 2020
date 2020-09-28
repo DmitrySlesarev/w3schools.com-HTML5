@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title> September the 16the, 2020 </title>
+	<link rel="stylesheet" href="style.css"/>
+	<meta charset="UTF-8"/>
+	<style type="text/css">
+		h1{
+			font-size: 100%; 
+    		font-family: Verdana, Arial, Helvetica, sans-serif; 
+    		color: white;
+		}
+		p{
+			color:white;
+		}
+		blockquote {
+			color:white;
+		}
+		q{
+			color:white;
+		}
+		pre {
+			color:white;
+		}
+		address {
+			color:white;
+		}
+		abbr {
+			color:white;
+		}
+		bdo {
+			color:white;
+		}
+		cite {
+			color:white;
+		}
+
+	</style>
+</head>
+	<!-- comment -->
+<body style="background-color:black;">
+	<h1> Let's remember some previous stuff </h1>
+	<blockquote> This text's gonna have some indent, right? </blockquote>
+	<p> This is some text and <q title="disclaimer"> the quote </q> in it. The quotation marks are in place. </p>
+	<pre> Preformatted text, just in case. </pre>
+	<address>
+		New York city<br/>
+		Eternity<br/>
+		Summer<br/>
+		ZIP 029922<br/>
+	</address>
+	<p> Some text and <abbr title="United States of America"> US </abbr> is here </p>
+	<p> If you wanna to go to <cite> San Francisco </cite> ?</p>
+	<bdo dir='rtl'> This text should look differently. </bdo>
+</body>
+</html>

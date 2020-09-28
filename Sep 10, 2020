@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title> The new page starts here!</title>
+	<meta charset="UTF-8"/>
+	<style>
+    	body {background-color:black;}
+    	p {color:white;}
+        h1{color:white;}
+        blockquote {color:white;}
+        address {color:white;}
+        bdo {color:white;}
+    </style>
+</head>
+
+<body>
+<h1> Let us try different types of quotes. </h1>
+<p> Here comes the first type: blockquotes. </p>
+
+<blockquote cite="https://www.w3schools.com">This text should be quoted from different source, and browser will indent it accordingly.</blockquote>
+
+<p> Here is another type of quotation, <q>much simpler.</q> The 'much simpler' words in the previous sentence are marked as quotation. </p>
+
+<p> And another element. It's interesting. Just point with your cursor at this abbreviation: <abbr title='World War First'> WWF </abbr>. Can you see pop-up inscription 'World War First'? That's it, sir! </p>
+
+<p> Also, address element. Add any URI, postal code or phone # </p>
+<address>
+Lyubertsy </br>
+Iniciativnaya, 13 </br>
+140083 </br>
+</address>
+
+<p> Cite can be both attribute and tag. Check this out </p>
+<p> This is famous <cite> Call of Duty </cite>. Do you know this game? </p>
+
+<p> And the last element is about direction of your text </p>
+<bdo dir="rtl"> Looks weird, right? </bdo>
+
+
+</body>
+
+
+
+</html>
