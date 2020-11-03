@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<title> Sia - Soon We'll Be Found </title>
+	<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+	<style>
+		body {
+			background:rgb(0, 0, 0);
+			text-align: center;
+		}
+		h1 {
+			color: rgb(255, 255, 255);
+			font-family: 'Itim', cursive;
+		}
+		p {
+			color: rgb(255, 255, 255);
+			font-family: 'Itim', cursive;
+		}
+		a:link, a:visited {
+  			background-color: #f44336;
+  			color: white;
+  			padding: 15px 25px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+	</style>
+	<meta charset="UTF-8"/>
+</head>
+
+<!-- One of my most favorite songs -->
+
+<body>
+
+<img src="https://images.app.goo.gl/oQCfv6GuMHGkciYy8" alt="Sia's photo"> 
+<h1> Sia - Soon We'll Be Found </h1>
+
+<p> Come along it is the break of day <br/>
+Surely now, you'll have some things to say <br/>
+It's not the time for telling tales on me <br/>
+So come along, it wont be long <br/>
+'Til we return happy <br/>
+Shut your eyes, there are no lies <br/>
+In this world we call sleep <br/>
+Let's desert this day of hurt <br/>
+Tomorrow we'll be free <br/>
+Let's not fight, I'm tired, can't we just sleep tonight? <br/>
+Don't turn away, it's just there's nothing left here to say <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+Well it's been rough but we'll be just fine <br/>
+Work it out yeah we'll survive <br/>
+You mustn't let a few bad times dictate <br/>
+So come along, it wont be long <br/>
+'Til we return happy <br/>
+Shut your eyes, there are no lies <br/>
+In this world we call sleep <br/>
+Let's desert this day of work <br/>
+Tomorrow we'll be free <br/>
+Let's not fight, I'm tired, can't we just sleep tonight? <br/>
+Don't turn away, it's just there's nothing left here to say <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+(I know we're lost but soon we'll be found) <br/>
+Oh <br/>
+Yeah, oh <br/>
+Oh <br/>
+Let's not fight, I'm tired, can't we just sleep tonight? <br/>
+Don't turn away, it's just there's nothing left here to say <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+Oh <br/>
+Let's not fight, I'm tired, can't we just sleep tonight? <br/>
+Don't turn away, it's just there's nothing left here to say <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+(I know we're lost but soon we'll be found) <br/>
+Let's not fight, I know we're lost but soon we'll be found <br/>
+Don't turn away I know we're lost but soon we'll be found <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+(I know we're lost but soon we'll be found) <br/>
+Let's not fight, I know we're lost but soon we'll be found <br/>
+Don't turn away, I know we're lost but soon we'll be found <br/>
+Turn around, I know we're lost but soon we'll be found <br/>
+<p>
+
+<a> This is a link to nowhere </a>
+
+</body>
+
+</html>
