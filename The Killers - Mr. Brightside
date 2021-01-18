@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+	<title>  The Killers - Mr. Brightside </title>
+	<link rel="preconnect" href="https://fonts.gstatic.com"> 
+	<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@200&display=swap" rel="stylesheet">
+	<meta charset="UTF-8"/>
+	<style>
+		body{
+			background-color: #555555;
+			text-align: center;
+		}
+		h1{
+			font-family: 'Fraunces', serif;
+		}
+		p{
+			font-family: 'Fraunces', serif;
+		}
+
+	</style>
+</head>
+	<!-- The Killers - Mr. Brightside -->
+<body>
+	<h1> The Killers - Mr. Brightside </h1>
+	<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/e/e0/The-Killers.jpg/375px-The-Killers.jpg" width="50%" height="50%" alt="None">
+	<p>
+Coming out of my cage<br/>
+And I've been doing just fine<br/>
+Gotta gotta be down<br/>
+Because I want it all<br/>
+It started out with a kiss<br/>
+How did it end up like this?<br/>
+It was only a kiss<br/>
+It was only a kiss<br/>
+<br/>
+Now I'm falling asleep<br/>
+And she's calling a cab<br/>
+While he's having a smoke<br/>
+And she's taking the drag<br/>
+<br/>
+Now they're going to bed<br/>
+And my stomach is sick<br/>
+And it's all in my head<br/>
+But she's touching his chest now<br/>
+<br/>
+He takes off her dress now<br/>
+Let me go<br/>
+And I just can't look<br/>
+It's killing me<br/>
+And taking control<br/>
+<br/>
+Jealousy<br/>
+Turning saints into the sea<br/>
+Swimming through sick lullaby<br/>
+Choking on your alibi<br/>
+But it's just the price I pay<br/>
+Destiny is calling me<br/>
+Open up my eager eyes<br/>
+I'm Mr. Brightside<br/>
+<br/>
+</p>
+
+
+</body>
+
+</html>
